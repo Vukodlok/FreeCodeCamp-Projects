@@ -6,5 +6,6 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 - Cafe Menu: basic css
 - Colored Markers: color, gradient, and box-shadow
 - Registration Form: input boxes, radio buttons, checkboxes, upload buttons, and submit buttons
----
+***
 - Rothko-style Art: box model, image filter, box shadow, and transformations
+- Photo Gallery: flexbox
