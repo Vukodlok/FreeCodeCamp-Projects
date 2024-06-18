@@ -10,3 +10,4 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 - Rothko-style Art: box model, image filter, box shadow, and transformations
 - Photo Gallery: flexbox
 - Nutrition Label: typography, box sizing, margin, padding, spacing
+- Quiz with Accessibility: html/css accessibility features
