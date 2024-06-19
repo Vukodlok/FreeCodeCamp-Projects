@@ -14,3 +14,4 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 ***
 - Balance Sheet: pseudoclasses, !important, and calc css function
 - Cat Painting: positioning, borders, and transformations
+- Piano: media queries and pseudo elements
