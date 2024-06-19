@@ -13,3 +13,4 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 - Quiz with Accessibility: html/css accessibility features
 ***
 - Balance Sheet: pseudoclasses, !important, and calc css function
+- Cat Painting: positioning, borders, and transformations
