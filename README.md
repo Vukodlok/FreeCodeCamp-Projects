@@ -15,5 +15,6 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 - Balance Sheet: pseudoclasses, !important, and calc css function
 - Cat Painting: positioning, borders, and transformations
 - Piano: media queries and pseudo elements
+***
 - City Skyline: gradient, css variables, and media query adjusting image based on screen width
 - Magazine: grid display, lazy loading images, no referrer link attribute, and repeat function
