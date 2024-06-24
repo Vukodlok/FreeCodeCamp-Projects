@@ -18,3 +18,5 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 ***
 - City Skyline: gradient, css variables, and media query adjusting image based on screen width
 - Magazine: grid display, lazy loading images, no referrer link attribute, and repeat function
+***
+- Ferris Wheel: transform origin for iterative transformations and @keyframes animation
