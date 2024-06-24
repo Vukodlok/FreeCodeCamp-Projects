@@ -20,3 +20,4 @@ A place to store all my projects made with the tutorials through freecodecamp.  
 - Magazine: grid display, lazy loading images, no referrer link attribute, and repeat function
 ***
 - Ferris Wheel: transform origin for iterative transformations and @keyframes animation
+- Penguin Animation: z-index, transformations, transitions, and cursor properties
