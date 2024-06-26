@@ -23,4 +23,5 @@ A place to store all my projects made while working through freecodecamp's cours
 - Penguin Animation: z-index, transformations, transitions, and cursor properties
 
 ## JavaScript Algorithms and Data Structures(Beta)
-- Building a Pyramid Generator: let/const variables, pop/push/unshift/shift arrays, loops, .repeat function for strings, functions, truthy and falsy values, and strict equality 
+- Building a Pyramid Generator: let/const variables, pop/push/unshift/shift arrays, loops, .repeat function for strings, functions, truthy and falsy values, and strict equality
+- Gradebook App: A few basic functions such as averaging numbers and returning a string from a conditionals checking for number ranges
