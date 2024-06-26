@@ -1,5 +1,5 @@
 # FreeCodeCamp-Projects
-A place to store all my projects made with the tutorials through freecodecamp's Web Design course.  Each has a quick description below to help me find a project based on the topic.
+A place to store all my projects made while working through freecodecamp's courses.  Each has a quick description below to help me find a project based on the topic.
 
 ## Responsive Web Design
 - Cat Photo App: basic html elements
@@ -23,5 +23,4 @@ A place to store all my projects made with the tutorials through freecodecamp's 
 - Penguin Animation: z-index, transformations, transitions, and cursor properties
 
 ## JavaScript Algorithms and Data Structures(Beta)
-A place to store all my projects made with the tutorials through freecodecamp's JavaScript course.  Each has a quick description below to help me find a project based on the topic.
 - Building a Pyramid Generator: let/const variables, pop/push/unshift/shift arrays, loops, .repeat function for strings, functions, truthy and falsy values, and strict equality 
