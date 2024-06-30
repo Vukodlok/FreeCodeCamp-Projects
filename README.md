@@ -25,3 +25,4 @@ A place to store all my projects made while working through freecodecamp's cours
 ## JavaScript Algorithms and Data Structures(Beta)
 - Building a Pyramid Generator: let/const variables, pop/push/unshift/shift arrays, loops, .repeat function for strings, functions, truthy and falsy values, and strict equality
 - Gradebook App: A few basic functions such as averaging numbers and returning a string from a conditionals checking for number ranges
+- Role Playing Game: connecting js to html/css, arrays as objects, document.querySelector for accessing html in js, button onclick property, innerText property for changing text, objects, screen update function, innerHTML property for using js to modify html, ternary operators
