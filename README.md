@@ -28,3 +28,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Role Playing Game: connecting js to html/css, arrays as objects, document.querySelector for accessing html in js, button onclick property, innerText property for changing text, objects, screen update function, innerHTML property for using js to modify html, and ternary operators
 - Random Background Color Changer: debugging
 - Calorie Counter: getElementById method for grabbing html info, cleaning input, regex with character classes and flags, .replace method, .match method for regex, value property, template literals for interpolating variables within a string, innerHTML property, addEventListener method, insertAdjacentHTML method for preserving input content, submit event, and preventDefault method
+- Rock, Paper, Scissors: DOM Manipulation
