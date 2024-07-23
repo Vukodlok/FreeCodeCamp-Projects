@@ -35,3 +35,5 @@ A place to store all my projects made while working through freecodecamp's cours
 - Soccer Cards: Object.freeze method for preventing changes, object destructuring syntax for unpacking values from arrays and objects
 - Todo App: Allowing data to persist by storing as key:value pair with LocalStorage, toggle method for adding/removing classes from elements, modal methods for working with a modal dialog box, Date.now method for returning epoch time, modify arrays while returning removed elements with splice method, resolving local storage issues with JSON.stringify method to convert to string format and JSON.parse to work with object format
 - Binary Converter: logging event objects for the keydown event using the key property, casting a string into an integer with the parseInt method, recursion, running asynchronous code using the setTimeout function
+***
+- Spam Filter: 
