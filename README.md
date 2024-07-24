@@ -37,3 +37,5 @@ A place to store all my projects made while working through freecodecamp's cours
 - Binary Converter: logging event objects for the keydown event using the key property, casting a string into an integer with the parseInt method, recursion, running asynchronous code using the setTimeout function
 ***
 - Spam Filter: matching input with regex expressions and the test method, match either or values with alternate sequence |, some method for checking for at least one true element, capture a group of a regex expression to save for later reference, extensive regex usage
+- Number Sorter: bubble sort, selection sort, insertion sort, sort method
+
