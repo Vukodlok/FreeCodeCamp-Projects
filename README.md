@@ -38,4 +38,4 @@ A place to store all my projects made while working through freecodecamp's cours
 ***
 - Spam Filter: matching input with regex expressions and the test method, match either or values with alternate sequence |, some method for checking for at least one true element, capture a group of a regex expression to save for later reference, extensive regex usage
 - Number Sorter: bubble sort, selection sort, insertion sort, sort method
-
+- Statistics Calculator: filter out input using the filter method, apply a function to condense an array into a single value using the reduce method, sorting numbers using the sort method with parameters a and b and returning a - b, tracking values using a set to prevent duplicate values
