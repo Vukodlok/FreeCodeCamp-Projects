@@ -40,3 +40,5 @@ A place to store all my projects made while working through freecodecamp's cours
 - Number Sorter: bubble sort, selection sort, insertion sort, sort method
 - Statistics Calculator: filter out input using the filter method, apply a function to condense an array into a single value using the reduce method, sorting numbers using the sort method with parameters a and b and returning a - b, tracking values using a set to prevent duplicate values
 - Spreadsheet: define the behavior of the window when loaded with the unload property of the window object, convert strings and numbers with charCodeAt and String.fromCharCode methods, introduced to the concept of currying or returning a function within a function, check a callback function to be true for all elements in an array with the every method
+***
+- Shopping Cart: using objects and classes to structure code through object-oriented programming, referencing the current instance of an object using the this keyword, clean up decimal number formatting with the toFixed method, display a confirmation prompt using the confirm method
