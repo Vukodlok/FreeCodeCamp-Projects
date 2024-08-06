@@ -42,3 +42,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Spreadsheet: define the behavior of the window when loaded with the unload property of the window object, convert strings and numbers with charCodeAt and String.fromCharCode methods, introduced to the concept of currying or returning a function within a function, check a callback function to be true for all elements in an array with the every method
 ***
 - Shopping Cart: using objects and classes to structure code through object-oriented programming, referencing the current instance of an object using the this keyword, clean up decimal number formatting with the toFixed method, display a confirmation prompt using the confirm method
+- Platformer Game: create graphics with the canvas API, updating animation on a screen with the requestAnimationFrame API, assigning multiple conditions to run the same code in a switch
