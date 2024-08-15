@@ -46,3 +46,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Dice Game: updating UI dynamically based on game state
 ***
 - Author Page: fetch data from an external API and dynamically update the DOM, paginate data so results can be loaded in batches
+- Forum Leaderboard: use asynchronous operations to execute tasks independently of the main program flow, handle errors with a try…catch statement
