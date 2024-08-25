@@ -49,5 +49,5 @@ A place to store all my projects made while working through freecodecamp's cours
 - Forum Leaderboard: use asynchronous operations to execute tasks independently of the main program flow, handle errors with a try…catch statement
 
 ## Front End Development Libraries
-- Cat Photo App Example - bootstrap, responsive web design classes, button class, bootstrap’s grid system for relative width, styling web sites with bootstrap style classes, including icons with the font awesome library
--  
+- Cat Photo App Example: bootstrap, responsive web design classes, button class, bootstrap’s grid system for relative width, styling web sites with bootstrap style classes, including icons with the font awesome library
+-  Bootstrap Template: bootstrap, responsive web design classes, button class, bootstrap’s grid system for relative width, styling web sites with bootstrap style classes, including icons with the font awesome library
