@@ -51,3 +51,4 @@ A place to store all my projects made while working through freecodecamp's cours
 ## Front End Development Libraries
 - Cat Photo App Example: bootstrap, responsive web design classes, button class, bootstrap’s grid system for relative width, styling web sites with bootstrap style classes, including icons with the font awesome library
 -  Bootstrap Template: bootstrap, responsive web design classes, button class, bootstrap’s grid system for relative width, styling web sites with bootstrap style classes, including icons with the font awesome library
+-  jQuery Example: managing html elements using addClass and removeClass, managing css style with .css function, adjust non-css properties with .prop function, modify or replace html tags with the .html function, remove html elements with the .remove function, move an element using appendTo and/or clone functions, target certain elements without using ids with the target:nth-child(n) or odd/even selectors
