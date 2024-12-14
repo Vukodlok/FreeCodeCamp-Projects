@@ -56,3 +56,5 @@ A place to store all my projects made while working through freecodecamp's cours
 -  React Examples (not in github, it was a collection of unrelated tasks): React for building reusable web UI with JSX, using JSX to create html elements with Javascript, create a stateless functional component, create an ES6 class by constructing an object allowing local state and lifecycle hooks, use props to pass properties to child components, unidirectional data flow for passing only the state data needed to child components,  use lifecycle methods like componentDidMount to perform actions at specific points in the lifecycle of a component
 -  Redux Examples: fundamentals of Redux stores, actions, reducers and middleware to manage data throughout applications
 -  Redux-React Example: Provide data to React as a view library, Redux for state management framework
+
+## Data Visualization
