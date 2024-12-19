@@ -58,3 +58,5 @@ A place to store all my projects made while working through freecodecamp's cours
 -  Redux-React Example: Provide data to React as a view library, Redux for state management framework
 
 ## Data Visualization
+- Bar Graph - An example to visualize a bar graph using D3.
+- Scatterplot - An example to visualize a scatterplot using D3.
