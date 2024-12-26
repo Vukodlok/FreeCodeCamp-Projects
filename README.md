@@ -60,3 +60,7 @@ A place to store all my projects made while working through freecodecamp's cours
 ## Data Visualization
 - Bar Graph - An example to visualize a bar graph using D3.
 - Scatterplot - An example to visualize a scatterplot using D3.
+- Scatterplot with Labels - An example to visualize a scatterplot that includes labels using D3.
+- Fetch API Data - An example fetching data from an API.
+- Geoloction - An example fetching geolocation data from an API.
+- Send Data to API - An example sending data to an API.
