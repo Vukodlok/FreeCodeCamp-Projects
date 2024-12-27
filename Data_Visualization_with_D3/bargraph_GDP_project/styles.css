@@ -1,0 +1,19 @@
+.bar {
+        fill: green;
+      }
+      .bar:hover {
+        fill: orange;
+      }
+
+#tooltip {
+        position: absolute;
+        background: lightgrey;
+        padding: 5px;
+        margin-left: 20px;
+        border: 1px solid black;
+        pointer-events: none;
+        opacity: 0;
+      }
+ .tick text {
+        font-size: 12px;
+      }
