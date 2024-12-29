@@ -65,3 +65,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Geoloction - An example fetching geolocation data from an API.
 - Send Data to API - An example sending data to an API.
 - BarGraph GDP Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive bar chart of US GDP data.
+- Scatterplot Cyclist Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive scatterplot of cyclist data.
