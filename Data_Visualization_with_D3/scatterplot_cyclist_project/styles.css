@@ -1,0 +1,19 @@
+.dot {
+  fill: grey;
+}
+#tooltip {
+  position: absolute;
+  background: lightgrey;
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid black;
+  pointer-events: none;
+  opacity: 0;
+}
+.tick text {
+  font-size: 12px;
+}
+#legend text {
+  font-size: 12px;
+  alignment-baseline: middle;
+}
