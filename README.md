@@ -68,3 +68,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Scatterplot Cyclist Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive scatterplot of cyclist data.
 - Heatmap Global Temp Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive heatmap of global temperature data.
 - Choropleth Map Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive choropleth map of education by geography data.
+- Treemap Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive treemap of video game sales by console data.
