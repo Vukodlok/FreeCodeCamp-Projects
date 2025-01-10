@@ -71,3 +71,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Treemap Project - Project from FCC's Data Visualization course using D3, VGA, and APIs to build a dynamic and interactive treemap of video game sales by console data.
 
 ## Relational Database
+- Celestial Bodies Database - Project from FCC's Relational Database course using postgreSQL to build a database of celecial bodies through bash.
