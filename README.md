@@ -77,3 +77,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Bingo - Project from FCC's Relational Database course using bash to create a basic script that outputs a random bingo number.
 - Fortune - Project from FCC's Relational Database course using bash to create a basic script that asks the user for a question and then outputs a random response like a Magic 8 Ball.
 - Automate Five - Project from FCC's Relational Database course using bash to create a basic script that automates my Questionnaire, Counter, Bingo, and Fortune scripts to run in a single command.
+- Student Database Part 1 - Project from FCC's Relational Database course using bash to create a bash script that builds a database of students and courses from existing data.
