@@ -83,3 +83,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Bike Rental Shop - Project from FCC's Relational Database course using bash and postgreSQL commands to create an interactive database where customers can rent and return bikes using a custimer name and phone number as an id.
 
 ## Back End Development and APIs
+- Manage Packages with npm - Practice from FCC's Back End Development and API course to make a boilerplate json file.
