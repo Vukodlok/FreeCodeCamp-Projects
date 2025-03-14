@@ -85,3 +85,4 @@ A place to store all my projects made while working through freecodecamp's cours
 ## Back End Development and APIs
 - Manage Packages with npm - Practice from FCC's Back End Development and API course to make a boilerplate json file.
 - Basic Node and Express - JSON and Node.js basics with the Express framework.  Covers parsing url encoded data, grabbing http data, serving static files, serving JSON data, middleware handlers, echo route for client input, get requests with query parameters, and post requests through html forms.  This was part of FCC's Back End Development and APIs course.
+- mongoDB and mongoose - noSQL basics with mongoDB, mongoose, and an Atlas free database running on the backend.  This was part of FCC's Back End Development and APIs course.
