@@ -89,3 +89,4 @@ A place to store all my projects made while working through freecodecamp's cours
 
 ## Quality Assurance
 - Chai Example - QA and unit testing Javascript using Chai.
+- Advanced Node and Express Example - Use Node.js and Express to build a user registration, log-in, log-out, and message web app with authentication through passwrods and github login functionality.  This was part of FCC's Quality Assurance course.
