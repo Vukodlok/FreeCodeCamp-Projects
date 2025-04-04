@@ -91,3 +91,6 @@ A place to store all my projects made while working through freecodecamp's cours
 - Chai Example - QA and unit testing Javascript using Chai.
 - Advanced Node and Express Example - Use Node.js and Express to build a user registration, log-in, log-out, and message web app with authentication through passwrods and github login functionality.  This was part of FCC's Quality Assurance course.
 - Metric Imperial Converter - Create a metric-imperial measurement converter using javascript with unit and functional testing using chai. This was part of FCC's Quality Assurance course.
+
+## Scientific Computing with Python
+- Vigenere Cipher - Use Python to create a program that encodes and decodes text using a Vigenere cipher.  This was part of FCC's Scientific Computing with Python course.
