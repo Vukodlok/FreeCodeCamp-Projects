@@ -97,3 +97,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Credit Card Verification - Use Python to verify a credit card number by implementing the Luhn algorithm.  This was part of FCC's Scientific Computing with Python course.
 - Expense Tracker - Use Python to create an expense tracker that stores costs and categroies.  This was part of FCC's Scientific Computing with Python course to practice lambda functions.
 - Case Converter - Use Python list comprehension to create a program for converting pascal case to snake case.  This was part of FCC's Scientific Computing with Python course.
+- Bisection Method Square Root - Use Python to create a square root approximation algorithm with the bisection method.  This was part of FCC's Scientific Computing with python course.
