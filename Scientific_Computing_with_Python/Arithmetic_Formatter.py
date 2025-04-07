@@ -1,6 +1,6 @@
 def arithmetic_arranger(problems, show_answers=False):
     if len(problems) > 5:
-        return 'Error: Too many problems'
+        return 'Error: Too many problems.'
     #lists needed for proper formatting
     first_line = []
     second_line = []
@@ -23,9 +23,9 @@ def arithmetic_arranger(problems, show_answers=False):
             return 'Error: Numbers cannot be more than four digits.'
 
         #two extra spaces on right for operator and spacing
-        width = max(len(left), len(right) + 2)
+        width = max(len(left), len(right)) + 2
         top = left.rjust(width)
-        bottom = operator + right.rjust(width-1)
+        bottom = operator + ' ' + right.rjust(width - 2)
         line = '-' * width
 
         first_line.append(top)
@@ -33,10 +33,7 @@ def arithmetic_arranger(problems, show_answers=False):
         dashes_line.append(line)
 
         if show_answers:
-            if operator == '+':
-                answer = str(int(left) + int(right))
-            else:
-                answer = str(int(left) - int(right))
+            answer = str(eval(left + operator + right))
             answers_line.append(answer.rjust(width))
 
     arranged_top = '    '.join(first_line)
@@ -49,4 +46,5 @@ def arithmetic_arranger(problems, show_answers=False):
     else:
         return f"{arranged_top}\n{arranged_bottom}\n{arranged_lines}"
 
-print(arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True))
+print(arithmetic_arranger(["3 + 855", "3801 - 2", "45 + 43", "123 + 49"]))
+
