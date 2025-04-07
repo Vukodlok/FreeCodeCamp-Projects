@@ -95,3 +95,4 @@ A place to store all my projects made while working through freecodecamp's cours
 ## Scientific Computing with Python
 - Vigenere Cipher - Use Python to create a program that encodes and decodes text using a Vigenere cipher.  This was part of FCC's Scientific Computing with Python course.
 - Credit Card Verification - Use Python to verify a credit card number by implementing the Luhn algorithm.  This was part of FCC's Scientific Computing with Python course.
+- Expense Tracker - Use Python to create an expense tracker that stores costs and categroies.  This was part of FCC's Scientific Computing with Python course to practice lambda functions.
