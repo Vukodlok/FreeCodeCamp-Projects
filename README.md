@@ -99,3 +99,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Case Converter - Use Python list comprehension to create a program for converting pascal case to snake case.  This was part of FCC's Scientific Computing with Python course.
 - Bisection Method Square Root - Use Python to create a square root approximation algorithm with the bisection method.  This was part of FCC's Scientific Computing with Python course.
 - Arithmetic Formatter - Use Python to create a program to format addition and subtractin problems into vertical column style problems.  This was part of FCC's Scientific Computing with Python course.
+- Password Generator - Use the Python libraries re, secrets, and string to create a random password generator program.  This was part of FCC's Scientific Computing with Python course.
