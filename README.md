@@ -102,3 +102,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Password Generator - Use the Python libraries re, secrets, and string to create a random password generator program.  This was part of FCC's Scientific Computing with Python course.
 - Shortest Path Algorithm - Use Python to create an algorithm for the shortest path of a spanning tree diagram.  This was part of FCC's Scientific Computing with Python course.
 - Tower of Hanoi Algorithm - Use Python to create an algorithm to solve the Tower of Hanoi problem using recursion.  This was part of FCC's Scientific Computing with Python course.
+- Merge Sort - Use Python and recursion to create a merge sort algorithm. This was part of FCC's Scientific Computing with Python course.
