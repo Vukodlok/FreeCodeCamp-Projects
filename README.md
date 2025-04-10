@@ -103,3 +103,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Shortest Path Algorithm - Use Python to create an algorithm for the shortest path of a spanning tree diagram.  This was part of FCC's Scientific Computing with Python course.
 - Tower of Hanoi Algorithm - Use Python to create an algorithm to solve the Tower of Hanoi problem using recursion.  This was part of FCC's Scientific Computing with Python course.
 - Merge Sort - Use Python and recursion to create a merge sort algorithm. This was part of FCC's Scientific Computing with Python course.
+- Time Calculator - Use Python to take in a time input and calculate an ending time based on the starting time and duration. This was part of FCC's Scientific Computing with Python course.
