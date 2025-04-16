@@ -106,3 +106,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Time Calculator - Use Python to take in a time input and calculate an ending time based on the starting time and duration. This was part of FCC's Scientific Computing with Python course.
 - Sudoku Solver - Use Python to create a Sudoku puzzle solver by creating and using a class. This was part of FCC's Scientific Computing with Python course.
 - Binary Search Tree - Use Python to create a binary search tree data structure using classes and methods.  This was part of FCC's Scientific Computing with Python course.
+- Budget App - Use Python to create a command line program that takes in deposits and withdraws to track and graph spending.  This was part of FCC's Scientific Computing with Python course.
