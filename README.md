@@ -107,3 +107,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Sudoku Solver - Use Python to create a Sudoku puzzle solver by creating and using a class. This was part of FCC's Scientific Computing with Python course.
 - Binary Search Tree - Use Python to create a binary search tree data structure using classes and methods.  This was part of FCC's Scientific Computing with Python course.
 - Budget App - Use Python to create a command line program that takes in deposits and withdraws to track and graph spending.  This was part of FCC's Scientific Computing with Python course.
+- Build a Vector Space - Use Python to build a vector space, practicing special methods.  This was part of FCC's Scientific Computing with Python course.
