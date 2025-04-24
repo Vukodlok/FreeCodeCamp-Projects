@@ -110,3 +110,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Build a Vector Space - Use Python to build a vector space, practicing special methods.  This was part of FCC's Scientific Computing with Python course.
 - Equation Solver - Use Python to build a linear and quadrratic equation solver with abstract classes. This was part of FCC's Scientific Computing with Python course.
 - Polygon Area Calculator - Use Python to build a calculator for finding perimeter, area, diagonal length, and amount of shapes that can fit inside one another for rectangles and squares. This was part of FCC's Scientific Computing with Python course.
+- Projectile Trajectory Calculator - Use Python to build a calculator for determining the trajectory of a projectile and giving a visual representation.  This was part of FCC's Scientific Computing with Python course.
