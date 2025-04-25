@@ -112,3 +112,6 @@ A place to store all my projects made while working through freecodecamp's cours
 - Polygon Area Calculator - Use Python to build a calculator for finding perimeter, area, diagonal length, and amount of shapes that can fit inside one another for rectangles and squares. This was part of FCC's Scientific Computing with Python course.
 - Projectile Trajectory Calculator - Use Python to build a calculator for determining the trajectory of a projectile and giving a visual representation.  This was part of FCC's Scientific Computing with Python course.
 - Probability Calculator - Use Python to build a calculator for determining the probability of drawing a certain number of different colored balls from a bag.  This was part of FCC's Scientific Computing with Python course.
+
+## Data Analysis with Python
+- 
