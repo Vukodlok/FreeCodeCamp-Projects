@@ -114,4 +114,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Probability Calculator - Use Python to build a calculator for determining the probability of drawing a certain number of different colored balls from a bag.  This was part of FCC's Scientific Computing with Python course.
 
 ## Data Analysis with Python
-- 
+- Use NumPy to create a python script that finds the mean, variance, standard deviation, min, and max of a matrix, as well as row and column stats.  This was part of FCC's Data Analysis with Python course.
