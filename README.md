@@ -114,7 +114,10 @@ A place to store all my projects made while working through freecodecamp's cours
 - Probability Calculator - Use Python to build a calculator for determining the probability of drawing a certain number of different colored balls from a bag.  This was part of FCC's Scientific Computing with Python course.
 
 ## Data Analysis with Python
-- Use NumPy to create a python script that finds the mean, variance, standard deviation, min, and max of a matrix, as well as row and column stats.  This was part of FCC's Data Analysis with Python course.
-- Demographic Data Analyzer - Use Pandas to create a python script for calculating statisitcs of education, salary, and job data based on data from Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.  This was part of FCC's Data Analysis with Python course.
-- Medical Data Analyzer - Use NumPY, Pandas, and Seaborn to create a python script which calcuates statistics and generates visual bar charts and heat maps on medical data.  This was part of FCC's Data Analysis with Python course.
-- Time Series Visualizer - Use NumPy, Matplotlib, Pandas, and Seaborn to create a python script that generates a line chart, bar graph, and box plot for data on forum activity.  This was part of FCC's Data Analysis with Python course.
+- Use NumPy to create a Python script that finds the mean, variance, standard deviation, min, and max of a matrix, as well as row and column stats.  This was part of FCC's Data Analysis with Python course.
+- Demographic Data Analyzer - Use Pandas to create a Python script for calculating statisitcs of education, salary, and job data based on data from Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.  This was part of FCC's Data Analysis with Python course.
+- Medical Data Analyzer - Use NumPY, Pandas, and Seaborn to create a Python script which calcuates statistics and generates visual bar charts and heat maps on medical data.  This was part of FCC's Data Analysis with Python course.
+- Time Series Visualizer - Use NumPy, Matplotlib, Pandas, and Seaborn to create a Python script that generates a line chart, bar graph, and box plot for data on forum activity.  This was part of FCC's Data Analysis with Python course.
+- Sea Level Predictor - Use Matplotlib and Pandas to create a Python script that generates a scatterplot and linear regression lines of sea level data in order to be used to make predictions.  Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.  This was part of FCC's Data Analysis with Python course.
+
+## Machine Learning with Python
