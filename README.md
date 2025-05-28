@@ -121,3 +121,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Sea Level Predictor - Use Matplotlib and Pandas to create a Python script that generates a scatterplot and linear regression lines of sea level data in order to be used to make predictions.  Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.  This was part of FCC's Data Analysis with Python course.
 
 ## Machine Learning with Python
+- Rock Paper Scissors - Create a Python script in Python with artifical intelligence strategies for playing against computer players with known strategies.  This was part of FCC's Machine Learning course.
