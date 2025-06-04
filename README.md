@@ -124,3 +124,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Rock Paper Scissors - Create a Python script in Python with artifical intelligence strategies for playing against computer players with known strategies.  This was part of FCC's Machine Learning course.
 - Cat Dog Classifier - Create a machine learning model to classifier an image as either a cat or a dog with 70% accuracy.  This was part of FCC's Machine Learning course.
 - Book Recommendation - Create a machine learning model using k-nearest neighbors to recomend books based on a given book title.  This was part of FCC's Machine Learning course.
+- Health Cost Calculator - Create a machine learning algorithm using linear regression to calculate healthcare costs.  This was part of FCC's Machine Learning course.
