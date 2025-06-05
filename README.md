@@ -125,3 +125,4 @@ A place to store all my projects made while working through freecodecamp's cours
 - Cat Dog Classifier - Create a machine learning model to classifier an image as either a cat or a dog with 70% accuracy.  This was part of FCC's Machine Learning course.
 - Book Recommendation - Create a machine learning model using k-nearest neighbors to recomend books based on a given book title.  This was part of FCC's Machine Learning course.
 - Health Cost Calculator - Create a machine learning algorithm using linear regression to calculate healthcare costs.  This was part of FCC's Machine Learning course.
+- Spam Text Classifier - Create a machine learning algorithm to determine if a text message is spam.  This was part of FCC's Machine Learning course.
